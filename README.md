@@ -17,7 +17,7 @@ The following files are present in this repository
 	View(data)
 
 
-##codebook.md
+##CodeBook.md
   This file contains the description of the variables present in the dataset "UCI_HAR_tidydata.txt"
 ##README.md
   This document
